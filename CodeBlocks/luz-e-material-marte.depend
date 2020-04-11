@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1526951398 source:/media/neiva/f7a28796-cdb8-4577-8f6e-b52c8ccc382f/cefet-cg-exemplos-opengl-master/luz-e-material-marte/main.cpp
+	<iostream>
+	<fstream>
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cmath>
+
+1527114869 source:/media/neiva/f7a28796-cdb8-4577-8f6e-b52c8ccc382f/cefet-cg-exemplos-opengl-master/sistema/main.cpp
+	<iostream>
+	<fstream>
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cmath>
+
+1527202630 source:/home/neiva/Videos/sistema/main.cpp
+	<iostream>
+	<fstream>
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cmath>
+
+1527867371 source:/home/neiva/Videos/pen/sistema/main.cpp
+	<iostream>
+	<fstream>
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cmath>
+	<time.h>
+
+1527951761 source:/home/neiva/Downloads/sistema (5)/main.cpp
+	<iostream>
+	<fstream>
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cmath>
+	<time.h>
+
+1527991160 source:/home/sinval/Desktopp/sistema/main.cpp
+	<iostream>
+	<fstream>
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<cmath>
+	<time.h>
+	<string.h>
+	<SDL2/SDL.h>
+

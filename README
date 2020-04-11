@@ -1,0 +1,19 @@
+Dupla:  Sinval de Deus Vieira Júnior
+	Cristiano Neiva
+
+
+Deve-se baixar a biblioteca SDL2;
+
+	Digite no Terminal:
+		sudo apt-get install cmake libsdl2-dev
+
+	Coloque "SDL2" como Linker no Build Options
+
+	Mude a variavel FILE_PATH para o diretorio de onde a musica(Musica.wav) esta no seu 		computador	
+
+
+CONTROLES
+W-w:Seleciona os planetas 
+c:altera camera
+UP-Down:alteram zoom
+L:Liga ou desliga luz ambiente
